@@ -6,3 +6,10 @@ https://github.com/gjbecerril/testApp001/blob/master/views/main/challenge2.cfm
 https://github.com/gjbecerril/testApp001/blob/master/views/main/challenge3.cfm
 https://github.com/gjbecerril/testApp001/blob/master/handlers/players.cfc
 https://github.com/gjbecerril/testApp001/blob/master/models/challenge.cfc
+
+
+Once all files of the repository have been downloaded to your local, go to:
+
+http://mylocalhost/main/challenge1.cfm
+http://mylocalhost/main/challenge2.cfm
+http://mylocalhost/main/challenge3.cfm
